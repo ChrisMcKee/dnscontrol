@@ -5,7 +5,7 @@ jsId: GANDI
 ---
 # Gandi Provider
 
-Gandi provides a DnsProvider but not a Registrar.
+Gandi provides bot a registrar and a dns provider implementation.
 
 ## Configuration
 
